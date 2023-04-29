@@ -4,4 +4,7 @@
 
 ![GokuDBZSSJ7 GitHub stats](https://github-readme-stats.vercel.app/api?username=gokudbzssj7&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokudbzssj7&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style='display: inline block'><br>
+  <img style='text-align: center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+  
+</div>
