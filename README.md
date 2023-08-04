@@ -17,6 +17,7 @@
   <img style='text-align: center' alt='NodeJs' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
   <img style='text-align: center' alt='NodeJs' src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
   <img style='text-align: center' alt='NodeJs' src='https://img.shields.io/badge/Angular-CA4245?style=for-the-badge&logo=angular&logoColor=white'>
+  <img style='text-align: center' alt='NodeJs' src='https://img.shields.io/badge/Java-CA4245?style=for-the-badge&logo=java&logoColor=white'>
 </div><br>
 
 ### Apaixonado pelo mundo da programação e da tecnologia
