@@ -12,7 +12,7 @@
   <img style='text-align: center' alt='NodeJs' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
   <img style='text-align: center' alt='NodeJs' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
   <img style='text-align: center' alt='NodeJs' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
-  <img style='text-align: center' alt='NodeJs' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
+  <img style='text-align: center' alt='NodeJs' src='[https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white&style=for-the-badge)'>
   <img style='text-align: center' alt='NodeJs' src='https://img.shields.io/badge/Angular-CA4245?style=for-the-badge&logo=angular&logoColor=white'>
 </div><br>
 
