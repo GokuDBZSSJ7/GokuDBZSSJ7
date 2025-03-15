@@ -1,8 +1,12 @@
-### Olá, Eu sou o Lucas Baggio ✋
+### Olá, Meu nome é Lucas Baggio, Desenvolvedor Fullstack!
 
-[![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
-![GokuDBZSSJ7 GitHub stats](https://github-readme-stats.vercel.app/api?username=gokudbzssj7&show_icons=true&theme=radical)
+![GokuDBZSSJ7 GitHub stats](https://github-readme-stats.vercel.app/api?username=gokudbzssj7&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gokudbzssj7&layout=compact&theme=radical&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
 
 ### Ferramentas que utilizo
 <div style='display: inline block'><br>
