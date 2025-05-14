@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/dwpVHvr3W-UAAAAC/midori.gif"  />
-
 ###
 
 <div align="left">
